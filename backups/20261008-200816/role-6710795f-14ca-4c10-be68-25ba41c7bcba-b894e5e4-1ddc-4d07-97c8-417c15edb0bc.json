@@ -1,0 +1,83 @@
+{
+  "cities": [],
+  "created": "2026-09-09",
+  "description": "I chose Tavush region because I am from Tavush",
+  "energy_sources": [
+    "7a8e1aac-e84d-452e-8a7c-62f01a90db25-adbb9835-e45d-438f-bede-cd8f8e586fa6",
+    "223adf52-22b3-4b9b-8f2a-5ed8d3d9e3b3-b411ea0a-c520-4f69-9f4a-9dae32ccd9ee",
+    "7b8b4ac9-5c97-4af2-9629-11adec9a3446-a8e85620-262e-43da-983c-eab7ccde6d26",
+    "49d4836c-57b5-43ed-8399-c9e3aecd6121-861a9dc8-a6a4-4cbc-b863-9d5f46777d5b",
+    "52680ab5-6c73-45c5-a417-0a1d1f188011-b0d5ae80-445e-4456-bf2b-b21c119c08e5",
+    "a73fa073-c5c0-44d2-bf57-0e8986574ba9-05474ab0-1c31-4e58-a42d-f3b3d2cdb5a4",
+    "90665811-ccd8-4ba5-8183-8e35decf727b-b20c0c32-6695-485a-9dde-d13fea30177a",
+    "79bf205f-6ab8-4058-ad8b-f15fb6bcfc78-4b7a9e29-30dc-49b7-b579-d82adb4cd1b8",
+    "f8ac1e70-1e9f-4bc4-93d6-85e4ffb9767e-4eeb9642-72e9-4e4e-847e-866088253699",
+    "4719dbaa-99dc-4bbb-bd4f-727c959eef33-d5b428bb-5605-4f03-99b6-d7884ce08b70"
+  ],
+  "financials": [],
+  "food": [
+    "6c4dd75f-57ae-490d-8b62-a63fb1f5a53d-6add8b34-b7b2-4c8d-98bc-c652faf02893",
+    "b83010ba-5dfa-47ee-8e74-9b4ae5d62ab5-717ad00d-6aab-446d-8e92-b6e23536b0e7",
+    "9f023ebf-f3ce-4aed-b356-2c86dbc2c696-2eb3d630-2e18-48b8-9411-cf477c2434e6",
+    "5dc34849-8e3f-472d-b5e4-0800b64e2b6d-cf1999df-35fe-4c0e-82ee-d4d45b05757b"
+  ],
+  "hospitals": [
+    "c702cde9-6ce8-464e-afac-5dfb3a73e805-a2072b1c-b6ff-4455-8bfa-4ff67bec7061",
+    "2d7d8ed8-eee9-4e9f-82c3-4ccb0433baeb-7a2248ab-fb8b-4c7f-a22f-42077b246942",
+    "932dcc0b-1098-4e99-9087-1fbf0d9ad982-a30d684e-b2c7-4c1b-937a-3a8c84f3ae00",
+    "74bd2156-9d67-4120-b224-378b6c6bde5c-ca0fbc50-78c1-46c0-988b-6c2e6ceb74c3",
+    "779b0b9c-0715-47e1-8280-4db64e68f039-1eafb5b0-de40-4344-a1c0-1c54ba368171",
+    "d6571191-6fd3-42a9-b080-f28c4f30f760-b861597a-ef14-4030-84a8-aa0b020403be"
+  ],
+  "name": {
+    "en_US": "Citizen of Tavush"
+  },
+  "paths": [
+    "cf7062d5-efb9-4d3e-a760-87a8137e3878-c62d78ed-170e-4dc4-a839-f90bc701a211",
+    "0ebcf81b-47ca-4a18-98c3-9d238c34cc2b-14f6bfe0-b096-4be1-b101-d1d14017feee",
+    "50055c26-c8f5-4ffd-8403-7f41d73b1e46-9f1f0fc5-7637-4720-9e02-b960f510a087",
+    "c4b58051-1082-4acd-ae3c-836361f97d70-c0a7d6d3-888d-40a5-b704-dbcc3d592678",
+    "cd43c30a-2ded-4792-bf0b-d6ea7101033f-de35e65b-6cc1-40c7-9d06-3b1fbb8bf5cc",
+    "5750a1e5-6a6d-43f9-9b53-c9649f08a96d-3a1c3bdd-c1a9-4059-b900-c50bb584cc29",
+    "55ff2f9b-b6fb-4889-8b97-e22ccce29a25-c1d3893e-1a81-4771-9916-5d68bf51624d",
+    "e6ebdd8c-5c87-453a-8909-936da4cfb61f-34b98762-c17e-4d0c-82f1-02de87efc70b",
+    "8290e08c-b551-4047-b7ac-0899b786a21c-61ae1bce-3f43-4b58-96bb-836b84c5d4d0"
+  ],
+  "postals": [],
+  "random_pins": [
+    "4ab858b1-4203-43fa-8b1e-7337da4d61b5-7b97701e-7f2c-4a3a-9be2-4b111c78c81f",
+    "3234bd47-087d-4788-9c29-a0a2f3ddd510-c544384a-ea93-4b54-97ad-cbbd5bd5f731",
+    "b99b8c4f-cdf7-41a5-8938-2dbb224df38b-de4f3ca2-5b7b-4b5d-bd4d-5099fc7ffc9e",
+    "0dc27e99-4d85-474a-86c6-05afd8417c27-082d575a-06ee-4875-9987-b83d63a8f03b",
+    "cc6e4c58-9df5-4e14-90d0-0cbff2b91c95-c4704741-df18-4d7b-a84a-13a343a03115",
+    "1684fb84-4346-40e5-baae-9dc61dea0332-ec8c1d82-2ff8-4179-9efa-2366f22dd363"
+  ],
+  "role_scenarios": [],
+  "scenarios": [],
+  "service_providers": [
+    "2626fbd2-55bb-4e47-9910-4925947e51e8-ab1e6412-3238-4400-8b3b-53f5449729b3",
+    "cb842c1d-7247-4c3b-b86b-d0ad8f1c8900-19fd0710-8fe7-4626-9b62-5013d061461d",
+    "eb895043-fdaf-43b0-8e7d-aadfd6424035-1caf47f0-86cf-42c4-a370-db80f061bd00",
+    "6767a500-dc91-4e25-9d91-a4b17c2fcbc1-c8af86f9-4951-4737-b22e-170a4a226618",
+    "b87cda54-df33-43e9-acfa-8df0fab1d86d-64d963d9-fdd4-467d-b388-2ebd96408326",
+    "922a7680-179b-4c6c-8e5b-e3b6b601b058-9a6d5db8-f451-4328-ae01-feb9ceba063e",
+    "01bac7e9-2fa3-448a-bd47-da776a4c5d18-4f322f1c-ba02-4323-8089-3e866a8d57a5",
+    "f5fa93b1-990c-4863-b481-25104349c796-62686cf4-1440-44df-aa00-f92d33b7111e",
+    "161f0d6a-638a-4fe7-85f6-ae4f201c99b8-f47f5b34-bede-4352-9465-a4cedf11fc7d",
+    "a55c9512-db65-4fa6-8718-175c61e93b26-83a4f3fa-b91f-447d-8d88-112c13ba6c60",
+    "2f9e897b-39d9-4272-8e56-258ba2187a57-d578bdd4-0bf9-4b33-b76f-969300c18a74"
+  ],
+  "tasks": [],
+  "telecoms": [],
+  "transports": [
+    "f63a14cc-338f-45aa-bf29-fac35584451f-5eba697f-676c-4c92-a84e-279a64c24d6a"
+  ],
+  "type": "9cca2855-5f30-46ea-b19f-5666ff840f93-784fcdf9-80cc-472b-950a-1842a83f5931",
+  "uuid": "6710795f-14ca-4c10-be68-25ba41c7bcba-b894e5e4-1ddc-4d07-97c8-417c15edb0bc",
+  "watersources": [
+    "90ea106a-7cf1-45c8-a12d-a0c3e83d7cb1-10dba425-1fe2-43b8-b760-64d383bc2e60",
+    "79a24ced-de54-47ea-9640-6bb0777faa62-a3322461-7212-4e96-8084-eb604a298e5d",
+    "6355e207-f569-42a3-8c36-7a449de680b6-588b9064-ea79-490a-83d1-9688ccf348f4",
+    "57c8e95c-f51d-47aa-8b4b-39fa40c0ebe3-bd544d1c-e733-4a34-a344-4256c85b14d7"
+  ]
+}
