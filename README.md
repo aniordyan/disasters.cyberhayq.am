@@ -47,21 +47,6 @@ python3 move_pins.py --uuid "<page-url-or-uuid>" --source Hospitals --target "Ra
 python3 move_pins.py --uuid "<page-url-or-uuid>" --source Food --target Financial --keyword bank
 ```
 
-## Repair hidden Postals
-
-Older role data may contain a hidden `postals` field, while the website tab uses
-`postal`. If items disappear after moving into Postals, run a dry repair first:
-
-```bash
-python3 move_pins.py --uuid "<page-url-or-uuid>" --fix-postals
-```
-
-If the preview shows the expected items, apply it:
-
-```bash
-python3 move_pins.py --uuid "<page-url-or-uuid>" --fix-postals --apply
-```
-
 ## Notes
 
 - If the UUID belongs to a user page, the script uses that user's first role by
